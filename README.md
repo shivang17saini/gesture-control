@@ -1,6 +1,4 @@
 # Gesture-control
-Ditch your mouse and control your PC like a wizard! 🖐️✨ This script uses your webcam and AI to turn hand gestures into clicks, scrolls, and cursor movements.
-
 Control your computer mouse using hand gestures captured through your webcam. This project uses computer vision and hand tracking to provide touchless mouse control with clicking and scrolling capabilities.
 
 ## Features
