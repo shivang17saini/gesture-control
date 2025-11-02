@@ -1,4 +1,5 @@
-# Gesture-control
+# AI Gesture Control 🖱️✋
+
 Control your computer mouse using hand gestures captured through your webcam. This project uses computer vision and hand tracking to provide touchless mouse control with clicking and scrolling capabilities.
 
 ## Features
@@ -43,8 +44,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ai-virtual-mouse.git
-cd ai-virtual-mouse
+git clone https://github.com/yourusername/ai-gesture-control.git
+cd ai-gesture-control
 ```
 
 2. Install required packages:
@@ -54,7 +55,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-python virtual_mouse.py
+python gesture_control.py
 ```
 
 ## Usage
